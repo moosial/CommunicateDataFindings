@@ -112,6 +112,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+/*_
 Example Project_/.DS_Store
 Example Project_/diamonds.csv
 Example Project_/Example_Project_Diamonds_Part1.html
